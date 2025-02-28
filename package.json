@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "html2canvas": "github:niklasvh/html2canvas"
+  }
+}
