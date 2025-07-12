@@ -2,24 +2,18 @@
 
 SafeScreen is an AI-powered solution that monitors screen activity to protect children from inappropriate online content. It uses computer vision and deep learning (MobileNetV2) to classify screen captures in real time and seamlessly redirects children to safe digital environments when harmful content is detected. The project is built using Python, PyTorch, OpenCV, and automation tools to create a responsive and intelligent content moderation system.
 
----
-
 ## 📚 Table of Contents
 
-| Section | Description |
-|--------|-------------|
-| [📌 Features](#features) | Overview of SafeScreen’s capabilities |
-| [📂 Folder Structure](#folder-structure) | Layout of project files |
-| [🛠️ Setup Instructions](#setup-instructions) | Environment setup and dependencies |
-| [🖼️ Dataset Preparation](#dataset-preparation) | Organizing training and testing data |
-| [🧠 Model Training](#model-training) | Training the image classification model |
-| [📊 Model Validation](#model-validation) | Evaluating the trained model |
-| [🖥️ Live Screen Monitoring](#live-screen-monitoring) | Real-time capture, classification, and redirection |
-| [🔐 Redirection Logic](#redirection-logic) | What happens when unsafe content is detected |
-| [💡 Future Enhancements](#future-enhancements) | Planned improvements |
-| [📄 License](#license) | Project licensing terms |
-
----
+- 📌 Features  
+- 📂 Folder Structure  
+- 🛠️ Setup Instructions  
+- 🖼️ Dataset Preparation  
+- 🧠 Model Training  
+- 📊 Model Validation  
+- 🖥️ Live Screen Monitoring  
+- 🔐 Redirection Logic  
+- 💡 Future Enhancements  
+- 📄 License  
 
 ## 📌 Features
 
