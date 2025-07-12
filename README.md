@@ -7,7 +7,7 @@ SafeScreen is an AI-powered solution that monitors screen activity to protect ch
 ## 📚 Table of Contents
 - [📌 Features](#-features)
 - [📂 Folder Structure](#-folder-structure)
-- [🛠️ Setup Instructions](#-setup-instructions)
+- [🛠️ Setup Instructions](#-setup-Instructions)
 - [🖼️ Dataset Preparation](#-dataset-preparation)
 - [🧠 Model Training](#-model-training)
 - [📊 Model Validation](#-model-validation)
